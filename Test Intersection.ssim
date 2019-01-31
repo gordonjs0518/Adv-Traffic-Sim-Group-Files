@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwashSim Facility="Custom">
+  <Project>
+    <Facility>Custom</Facility>
+    <ProjectType>0</ProjectType>
+    <FileName>C:\Users\naztec\Desktop\Test Intersection.ssim</FileName>
+    <FacilityName />
+    <FileNameNetwork>C:\Users\naztec\Desktop\Project Intersection v9c.nwf</FileNameNetwork>
+    <FileNameDriverParms>DataFiles_ModelParms\DriverParms.xml</FileNameDriverParms>
+    <FileNameLaneChangeParms>DataFiles_ModelParms\LaneChangeParameters.xml</FileNameLaneChangeParms>
+    <FileNameVehicleMoveParms>DataFiles_ModelParms\VehicleMovementParms.xml</FileNameVehicleMoveParms>
+    <FileNameSignalData>C:\Users\naztec\Desktop\Pattern2v6.xml</FileNameSignalData>
+    <OutputDataFolder>C:\Users\naztec\Desktop</OutputDataFolder>
+    <Location />
+    <FacilityStart />
+    <FacilityEnd />
+    <AnalysisDirection />
+    <AnalysisPeriod />
+    <Analyst />
+    <Date>1/24/2019 11:18:54 AM</Date>
+    <Agency />
+    <Comment />
+    <Program>SwashSim</Program>
+  </Project>
+  <SimulationSettings>
+    <WarmupTimeSeconds>0</WarmupTimeSeconds>
+    <DurationSeconds>300</DurationSeconds>
+    <RandSeed1>3720</RandSeed1>
+    <RandSeed2>8511</RandSeed2>
+    <RandSeed3>6613</RandSeed3>
+    <RandSeed4>5398</RandSeed4>
+    <LinkPerformanceData>false</LinkPerformanceData>
+    <DetectorSummaryOutput>false</DetectorSummaryOutput>
+    <DetectorActuationOutput>false</DetectorActuationOutput>
+    <HeadwayDataOutput>false</HeadwayDataOutput>
+    <LaneChangeDataOutput>false</LaneChangeDataOutput>
+    <PlatoonDataOutput>false</PlatoonDataOutput>
+    <VehicleTSDOutput>false</VehicleTSDOutput>
+    <SignalTSDOutput>false</SignalTSDOutput>
+  </SimulationSettings>
+</SwashSim>
